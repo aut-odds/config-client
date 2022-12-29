@@ -11,7 +11,6 @@ import java.util.Map;
 
 @Configuration
 @ConfigurationProperties("banks-info")
-
 @Getter
 @Setter
 public class BanksInfoConfiguration {
